@@ -13,6 +13,7 @@ Te same adresy podaje się dla wszystkich aplikacji – każda aplikacja jest wy
 ## Aplikacje
 
 - **Imprezowy pakiet** – iOS (`Arkadiusz-Woinski.Imprezowy-pakiet`), Android (`pl.arkadiuszwoinski.imprezowy_pakiet`)
+- **BZZT!** – iOS (`Arkadiusz-Woinski.BZZT-`), Android (`pl.arkadiuszwoinski.bzzt`); gra online, w aplikacji linki do obu stron są w Ustawieniach
 
 ## Dodawanie nowej aplikacji
 
