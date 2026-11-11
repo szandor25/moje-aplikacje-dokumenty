@@ -1,0 +1,8 @@
+title: Moje aplikacje – dokumenty
+description: Polityka prywatności i wsparcie dla aplikacji Arkadiusza Woińskiego
+lang: pl
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
