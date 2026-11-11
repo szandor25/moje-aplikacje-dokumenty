@@ -4,8 +4,11 @@ Wspólne dokumenty dla aplikacji mobilnych Arkadiusza Woińskiego (App Store i G
 
 | Dokument | Opis |
 |---|---|
-| [Polityka prywatności](privacy.md) | Adres do pola *Privacy Policy URL* (App Store Connect) i *Polityka prywatności* (Google Play Console) |
-| [Wsparcie](support.md) | Adres do pola *Support URL* (App Store Connect) |
+| [Polityka prywatności](privacy.md) | `https://szandor25.github.io/moje-aplikacje-dokumenty/privacy` – pole *Privacy Policy URL* (App Store Connect) i *Polityka prywatności* (Google Play Console) |
+| [Wsparcie](support.md) | `https://szandor25.github.io/moje-aplikacje-dokumenty/support` – pole *Support URL* (App Store Connect) |
+
+Strony są publikowane automatycznie przez GitHub Pages z gałęzi `main` (kilka minut po każdym pushu).
+Te same adresy podaje się dla wszystkich aplikacji – każda aplikacja jest wymieniona w dokumentach z nazwy.
 
 ## Aplikacje
 
