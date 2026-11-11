@@ -18,4 +18,4 @@ Ponieważ aplikacja nie posiada systemu kont, nie przechowujemy w bazach danych 
 Zastrzegamy sobie prawo do aktualizacji niniejszego dokumentu w przypadku zmian w funkcjonowaniu aplikacji lub wymogów prawnych. Najnowsza wersja zawsze będzie dostępna pod tym linkiem.
 
 ## 5. Kontakt
-W razie pytań lub wątpliwości dotyczących prywatności, prosimy o kontakt pod adresem e-mail: [tutaj_wpisz_swoj_email@domena.pl]
+W razie pytań lub wątpliwości dotyczących prywatności, prosimy o kontakt pod adresem e-mail: arek@e-aw.pl
