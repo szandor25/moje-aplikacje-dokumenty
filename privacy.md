@@ -1,6 +1,6 @@
 # Polityka prywatności
 
-*Ostatnia aktualizacja: 11 listopada 2026 r.*
+*Ostatnia aktualizacja: 12 listopada 2026 r.*
 
 Niniejsza polityka prywatności opisuje, jakie dane są przetwarzane w aplikacjach mobilnych (iOS i Android), których twórcą i administratorem jest **Arkadiusz Woiński** (dalej: „deweloper”, „my”). Dotyczy wszystkich aplikacji wymienionych w punkcie 2. Jeśli któraś aplikacja działa inaczej, niż opisano w części ogólnej, jest to zaznaczone przy tej aplikacji.
 
@@ -72,11 +72,13 @@ Teleturniej imprezowy dla kilku osób przy jednym stole (każdy gra na swoim tel
 | Wyniki gier i wyzwań: odpowiedzi, czas odpowiedzi, punkty, daty | Liczenie punktów, rankingi, seria wyzwań dnia |
 | Nazwa i hasło pokoju, jeśli gracz je ustawi | Lista pokoi i ochrona pokoju hasłem; hasło przechowujemy tylko jako skrót, a pokój znika z serwera po grze |
 | Adres IP i dane techniczne połączenia | Działanie i bezpieczeństwo serwera; nie łączymy ich z nickiem |
+| Zgłoszenia graczy: zgłoszony nick, kto zgłosił (identyfikator urządzenia), gdzie (pokój lub ranking) i kiedy | Moderacja – sprawdzenie zgłoszenia i ewentualna zmiana obraźliwego nicku |
 
 - **Bez reklam, analityki i zakupów w aplikacji.** Danych nie sprzedajemy i nie wykorzystujemy do reklam.
 - Serwer gry należy do dewelopera. Połączenia przechodzą przez **Cloudflare** (ochrona i przekazywanie ruchu), który w tym celu przetwarza adres IP.
 - Nagrania lektora czytającego pytania są przygotowywane z treści pytań i nie zawierają danych graczy.
-- **Nicki i nazwy pokoi widzą inni gracze.** Serwer odrzuca teksty z wulgaryzmami. Nadużycia (np. obraźliwy nick w rankingu) można zgłosić na **arek@e-aw.pl** – usuniemy je.
+- **Nicki i nazwy pokoi widzą inni gracze.** Serwer odrzuca teksty z wulgaryzmami. Każdego gracza możesz w aplikacji **zgłosić** (dotknij go w pokoju lub w rankingu → „Zgłoś nick”) – zgłoszenie sprawdzamy, a obraźliwy nick zmieniamy na „Gracz”. Możesz też napisać na **arek@e-aw.pl**.
+- **Blokowanie** („Zablokuj gracza”) ukrywa nick i avatar tej osoby na Twoim telefonie. Lista zablokowanych jest zapisana tylko na urządzeniu i nie trafia na serwer; zarządzasz nią w Ustawieniach.
 - **Aparat** służy tylko do zeskanowania kodu QR pokoju; obraz nie opuszcza telefonu.
 - **Powiadomienia** (przypomnienie o wyzwaniu dnia) są opcjonalne i planowane w telefonie, bez udziału serwera.
 - Ustawienia (dźwięki, wibracje, godzina przypomnienia) są zapisywane tylko na urządzeniu.

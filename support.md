@@ -44,7 +44,8 @@ Teleturniej imprezowy: kilka osób gra przy jednym stole, każdy na swoim telefo
 - **Zerwało mi połączenie w trakcie gry.** Otwórz aplikację ponownie – wrócisz do tej samej rundy.
 - **Nie przychodzą przypomnienia o wyzwaniu dnia.** Włącz je w Ustawieniach → Przypomnienia i zezwól na powiadomienia w ustawieniach telefonu.
 - **Jak usunąć swoje dane?** Ustawienia → „Usuń konto i dane”. Usuwa wyniki, serię i miejsca w rankingach z serwera oraz nick z telefonu.
-- **Ktoś ma obraźliwy nick w rankingu.** Napisz na **arek@e-aw.pl**, podając nick i ranking – usuniemy go.
+- **Ktoś ma obraźliwy nick.** Dotknij tego gracza w pokoju albo w rankingu i wybierz „Zgłoś nick” – sprawdzimy zgłoszenie i zmienimy nick. Możesz też napisać na **arek@e-aw.pl**.
+- **Jak zablokować gracza?** Dotknij go w pokoju albo w rankingu i wybierz „Zablokuj gracza”. Zobaczysz go jako „Zablokowany gracz”. Odblokujesz w Ustawieniach → „Zablokowani gracze”.
 
 ---
 
